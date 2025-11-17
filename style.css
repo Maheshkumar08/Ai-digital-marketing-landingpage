@@ -893,7 +893,7 @@
             position: fixed;
             top: 95px;
             /* below navbar */
-            right: 5px;
+            right: 10px;
             width: 50%;
             background: var(--card);
             backdrop-filter: blur(10px);
